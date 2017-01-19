@@ -1,9 +1,7 @@
-# converting bam files to processable fastq 
-
-Uploaded Jan 13 2017
-
 
 #Bam to Fastq Docker
+
+## Goal: converting bam files to processable fastq 
 
 ### Linh Lam January 10, 2017
 
@@ -116,6 +114,8 @@ Wed Dec 14 09:38:48 UTC 2016 gerald_C2DBEACXX_3.bam - Conversion done
 ```
 
 The log file will show "input.bam - Conversion done" once sample has finished processing.
+
+# Script contents were included in this document for historical purposes; we should remove them so they do not get out of sync with updated code
 
 ## Scripts
 
